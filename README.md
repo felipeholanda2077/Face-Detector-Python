@@ -12,10 +12,10 @@ Protótipo de detector de rostos com Python para analise de informações Visuai
 <a href="#Tecnologias-">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
 
-<h1 align="center">Banco-24Horas</h1>
+<h1 align="center">Face-Detector-Python</h1>
 <h3 align="center">Sobre o Projeto</h3>
 
-<h4 align="center">Arquivos do projeto para o Banco 24Horas</h4>
+<h4 align="center">AProtótipo de detector de rostos com Python para analise de informações Visuais </h4>
 <h3 align="center">🚧 Em desenvolvimento 🚧</h3>
 
 <br>
